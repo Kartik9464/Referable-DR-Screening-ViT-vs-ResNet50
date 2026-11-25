@@ -29,3 +29,6 @@ This repository contains the official PyTorch implementation comparing **ViT-Bas
 * `term_paper.py` — Standalone Python script
 * `publication_evaluation_results.png` — ROC curves & Confusion Matrices
 * `final_accuracy_loss_curves.png` — Training & Validation convergence plots
+## Tech Stack
+- **Framework:** PyTorch, `timm` (ViT-Base/16), `torchvision` (ResNet-50)
+- **Evaluation & Visualization:** Scikit-learn, Matplotlib, Seaborn
